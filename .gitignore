@@ -1,0 +1,4 @@
+# Ignoring all results folders and their contents
+resultsRand/
+resultsAsc/
+resultsDesc/
